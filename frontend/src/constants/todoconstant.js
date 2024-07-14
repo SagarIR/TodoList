@@ -1,0 +1,22 @@
+//Todo
+export const TODO_SUCCESS = "TODO_SUCCESS";
+export const TODO_FAIL = "TODO_FAIL";
+export const TODO_REQUEST = "TODO_REQUEST";
+
+//Add Todo
+export const ADD_TODO_REQUEST = "ADD_TODO_REQUEST";
+export const ADD_TODO_SUCCESS = "ADD_TODO_SUCCESS";
+export const ADD_TODO_FAIL = "ADD_TODO_FAIL";
+export const ADD_TODO_RESET = "ADD_TODO_RESET";
+export const TODO_ADD_SUCCESS = "TODO_ADD_SUCCESS";
+
+//Delete
+export const TODO_DELETE_REQUEST = "TODO_DELETE_REQUEST";
+export const TODO_DELETE_SUCCESS = "TODO_DELETE_SUCCESS";
+export const TODO_DELETE_FAIL = "TODO_DELETE_FAIL";
+
+//Edit
+export const TODO_EDIT_REQUEST = "TODO_EDIT_REQUEST";
+export const TODO_EDIT_SUCCESS = "TODO_EDIT_SUCCESS";
+export const TODO_EDIT_FAIL = "TODO_EDIT_FAIL";
+export const TODO_EDIT_RESET = "TODO_EDIT_RESET";
